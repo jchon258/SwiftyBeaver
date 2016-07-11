@@ -10,9 +10,6 @@
 		048E6BFA1CDBB68E00DC9116 /* DestinationSetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048E6BF91CDBB68E00DC9116 /* DestinationSetTests.swift */; };
 		54C189632F81D8BF9659C66B /* FilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C1856662C0326F8E96C1B8 /* FilterTests.swift */; };
 		9E195B0A1C6B3B4600D924CB /* AES256CBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E195B091C6B3B4600D924CB /* AES256CBC.swift */; };
-		9E195B0B1C6B3B4600D924CB /* AES256CBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E195B091C6B3B4600D924CB /* AES256CBC.swift */; };
-		9E195B0C1C6B3B4600D924CB /* AES256CBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E195B091C6B3B4600D924CB /* AES256CBC.swift */; };
-		9E195B0D1C6B3B4600D924CB /* AES256CBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E195B091C6B3B4600D924CB /* AES256CBC.swift */; };
 		9E195B0F1C6B3B6F00D924CB /* AES256CBCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E195B0E1C6B3B6F00D924CB /* AES256CBCTests.swift */; };
 		9E236E6C1D016E3600A2CBDC /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E236E6B1D016E3600A2CBDC /* Filter.swift */; };
 		9E31D6291C185ECD004E0980 /* SwiftyBeaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D6281C185ECD004E0980 /* SwiftyBeaver.swift */; };
@@ -23,35 +20,11 @@
 		9E6CAA481C148EC1009D9093 /* SwiftyBeaver.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA471C148EC1009D9093 /* SwiftyBeaver.podspec */; };
 		9E6CAA4A1C149579009D9093 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA491C149579009D9093 /* LICENSE */; };
 		9E8346931D1917A0000D71D6 /* FileDestinationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8346921D1917A0000D71D6 /* FileDestinationTests.swift */; };
-		9EA0A5491D06EBE500CF16AB /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E236E6B1D016E3600A2CBDC /* Filter.swift */; };
-		9EA0A54A1D06EBE500CF16AB /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E236E6B1D016E3600A2CBDC /* Filter.swift */; };
-		9EA0A54B1D06EBE500CF16AB /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E236E6B1D016E3600A2CBDC /* Filter.swift */; };
 		9EA53F8B1C561EE600B160AF /* SecretsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EA53F8A1C561EE600B160AF /* SecretsExample.swift */; };
 		9ED096F81C521C6900FE3059 /* SBPlatformDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED096F71C521C6900FE3059 /* SBPlatformDestination.swift */; };
-		9ED096F91C521C6900FE3059 /* SBPlatformDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED096F71C521C6900FE3059 /* SBPlatformDestination.swift */; };
-		9ED096FA1C521C6900FE3059 /* SBPlatformDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED096F71C521C6900FE3059 /* SBPlatformDestination.swift */; };
-		9ED096FB1C521C6900FE3059 /* SBPlatformDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED096F71C521C6900FE3059 /* SBPlatformDestination.swift */; };
 		9ED096FD1C521D3200FE3059 /* SBPlatformDestinationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED096FC1C521D3200FE3059 /* SBPlatformDestinationTests.swift */; };
 		9EDCE3EF1C09D211002FA4A7 /* SwiftyBeaver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EDCE3E41C09D211002FA4A7 /* SwiftyBeaver.framework */; };
 		9EDCE3F41C09D211002FA4A7 /* SwiftyBeaverTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EDCE3F31C09D211002FA4A7 /* SwiftyBeaverTests.swift */; };
-		ACE597771C1882DF0031451F /* ConsoleDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62C1C185EE3004E0980 /* ConsoleDestination.swift */; };
-		ACE597781C1882DF0031451F /* SwiftyBeaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D6281C185ECD004E0980 /* SwiftyBeaver.swift */; };
-		ACE597791C1882DF0031451F /* FileDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62D1C185EE3004E0980 /* FileDestination.swift */; };
-		ACE5977A1C1882DF0031451F /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62B1C185EE3004E0980 /* BaseDestination.swift */; };
-		ACE5977E1C1882DF0031451F /* SwiftyBeaver.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA471C148EC1009D9093 /* SwiftyBeaver.podspec */; };
-		ACE5977F1C1882DF0031451F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA491C149579009D9093 /* LICENSE */; };
-		ACE597881C18830D0031451F /* ConsoleDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62C1C185EE3004E0980 /* ConsoleDestination.swift */; };
-		ACE597891C18830D0031451F /* SwiftyBeaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D6281C185ECD004E0980 /* SwiftyBeaver.swift */; };
-		ACE5978A1C18830D0031451F /* FileDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62D1C185EE3004E0980 /* FileDestination.swift */; };
-		ACE5978B1C18830D0031451F /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62B1C185EE3004E0980 /* BaseDestination.swift */; };
-		ACE5978F1C18830D0031451F /* SwiftyBeaver.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA471C148EC1009D9093 /* SwiftyBeaver.podspec */; };
-		ACE597901C18830D0031451F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA491C149579009D9093 /* LICENSE */; };
-		ACE597991C18832E0031451F /* ConsoleDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62C1C185EE3004E0980 /* ConsoleDestination.swift */; };
-		ACE5979A1C18832E0031451F /* SwiftyBeaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D6281C185ECD004E0980 /* SwiftyBeaver.swift */; };
-		ACE5979B1C18832E0031451F /* FileDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62D1C185EE3004E0980 /* FileDestination.swift */; };
-		ACE5979C1C18832E0031451F /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62B1C185EE3004E0980 /* BaseDestination.swift */; };
-		ACE597A01C18832E0031451F /* SwiftyBeaver.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA471C148EC1009D9093 /* SwiftyBeaver.podspec */; };
-		ACE597A11C18832E0031451F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CAA491C149579009D9093 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -90,9 +63,6 @@
 		9EDCE3EE1C09D211002FA4A7 /* SwiftyBeaverTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftyBeaverTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EDCE3F31C09D211002FA4A7 /* SwiftyBeaverTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyBeaverTests.swift; sourceTree = "<group>"; };
 		9EDCE3F51C09D211002FA4A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ACE597841C1882DF0031451F /* SwiftyBeaver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyBeaver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ACE597951C18830D0031451F /* SwiftyBeaver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyBeaver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ACE597A61C18832E0031451F /* SwiftyBeaver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyBeaver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,27 +78,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EDCE3EF1C09D211002FA4A7 /* SwiftyBeaver.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5977B1C1882DF0031451F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5978C1C18830D0031451F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5979D1C18832E0031451F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,9 +118,6 @@
 			children = (
 				9EDCE3E41C09D211002FA4A7 /* SwiftyBeaver.framework */,
 				9EDCE3EE1C09D211002FA4A7 /* SwiftyBeaverTests.xctest */,
-				ACE597841C1882DF0031451F /* SwiftyBeaver.framework */,
-				ACE597951C18830D0031451F /* SwiftyBeaver.framework */,
-				ACE597A61C18832E0031451F /* SwiftyBeaver.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -197,27 +143,6 @@
 
 /* Begin PBXHeadersBuildPhase section */
 		9EDCE3E11C09D211002FA4A7 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5977C1C1882DF0031451F /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5978D1C18830D0031451F /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5979E1C18832E0031451F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -264,60 +189,6 @@
 			productReference = 9EDCE3EE1C09D211002FA4A7 /* SwiftyBeaverTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		ACE597751C1882DF0031451F /* SwiftyBeaver (watchOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = ACE597811C1882DF0031451F /* Build configuration list for PBXNativeTarget "SwiftyBeaver (watchOS)" */;
-			buildPhases = (
-				ACE597761C1882DF0031451F /* Sources */,
-				ACE5977B1C1882DF0031451F /* Frameworks */,
-				ACE5977C1C1882DF0031451F /* Headers */,
-				ACE5977D1C1882DF0031451F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SwiftyBeaver (watchOS)";
-			productName = SwiftyBeaver;
-			productReference = ACE597841C1882DF0031451F /* SwiftyBeaver.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		ACE597861C18830D0031451F /* SwiftyBeaver (tvOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = ACE597921C18830D0031451F /* Build configuration list for PBXNativeTarget "SwiftyBeaver (tvOS)" */;
-			buildPhases = (
-				ACE597871C18830D0031451F /* Sources */,
-				ACE5978C1C18830D0031451F /* Frameworks */,
-				ACE5978D1C18830D0031451F /* Headers */,
-				ACE5978E1C18830D0031451F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SwiftyBeaver (tvOS)";
-			productName = SwiftyBeaver;
-			productReference = ACE597951C18830D0031451F /* SwiftyBeaver.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		ACE597971C18832E0031451F /* SwiftyBeaver (OSX) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = ACE597A31C18832E0031451F /* Build configuration list for PBXNativeTarget "SwiftyBeaver (OSX)" */;
-			buildPhases = (
-				ACE597981C18832E0031451F /* Sources */,
-				ACE5979D1C18832E0031451F /* Frameworks */,
-				ACE5979E1C18832E0031451F /* Headers */,
-				ACE5979F1C18832E0031451F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SwiftyBeaver (OSX)";
-			productName = SwiftyBeaver;
-			productReference = ACE597A61C18832E0031451F /* SwiftyBeaver.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -352,9 +223,6 @@
 			targets = (
 				9EDCE3E31C09D211002FA4A7 /* SwiftyBeaver (iOS) */,
 				9EDCE3ED1C09D211002FA4A7 /* SwiftyBeaverTests */,
-				ACE597751C1882DF0031451F /* SwiftyBeaver (watchOS) */,
-				ACE597861C18830D0031451F /* SwiftyBeaver (tvOS) */,
-				ACE597971C18832E0031451F /* SwiftyBeaver (OSX) */,
 			);
 		};
 /* End PBXProject section */
@@ -373,33 +241,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5977D1C1882DF0031451F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				ACE5977E1C1882DF0031451F /* SwiftyBeaver.podspec in Resources */,
-				ACE5977F1C1882DF0031451F /* LICENSE in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5978E1C18830D0031451F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				ACE5978F1C18830D0031451F /* SwiftyBeaver.podspec in Resources */,
-				ACE597901C18830D0031451F /* LICENSE in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE5979F1C18832E0031451F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				ACE597A01C18832E0031451F /* SwiftyBeaver.podspec in Resources */,
-				ACE597A11C18832E0031451F /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -448,48 +289,6 @@
 				9E195B0F1C6B3B6F00D924CB /* AES256CBCTests.swift in Sources */,
 				9E6CA9FC1C12BA7A009D9093 /* BaseDestinationTests.swift in Sources */,
 				54C189632F81D8BF9659C66B /* FilterTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE597761C1882DF0031451F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9EA0A54B1D06EBE500CF16AB /* Filter.swift in Sources */,
-				ACE597771C1882DF0031451F /* ConsoleDestination.swift in Sources */,
-				9ED096F91C521C6900FE3059 /* SBPlatformDestination.swift in Sources */,
-				ACE597781C1882DF0031451F /* SwiftyBeaver.swift in Sources */,
-				ACE597791C1882DF0031451F /* FileDestination.swift in Sources */,
-				9E195B0B1C6B3B4600D924CB /* AES256CBC.swift in Sources */,
-				ACE5977A1C1882DF0031451F /* BaseDestination.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE597871C18830D0031451F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9EA0A54A1D06EBE500CF16AB /* Filter.swift in Sources */,
-				ACE597881C18830D0031451F /* ConsoleDestination.swift in Sources */,
-				9ED096FA1C521C6900FE3059 /* SBPlatformDestination.swift in Sources */,
-				ACE597891C18830D0031451F /* SwiftyBeaver.swift in Sources */,
-				ACE5978A1C18830D0031451F /* FileDestination.swift in Sources */,
-				9E195B0C1C6B3B4600D924CB /* AES256CBC.swift in Sources */,
-				ACE5978B1C18830D0031451F /* BaseDestination.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ACE597981C18832E0031451F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9EA0A5491D06EBE500CF16AB /* Filter.swift in Sources */,
-				ACE597991C18832E0031451F /* ConsoleDestination.swift in Sources */,
-				9ED096FB1C521C6900FE3059 /* SBPlatformDestination.swift in Sources */,
-				ACE5979A1C18832E0031451F /* SwiftyBeaver.swift in Sources */,
-				ACE5979B1C18832E0031451F /* FileDestination.swift in Sources */,
-				9E195B0D1C6B3B4600D924CB /* AES256CBC.swift in Sources */,
-				ACE5979C1C18832E0031451F /* BaseDestination.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -657,138 +456,6 @@
 			};
 			name = Release;
 		};
-		ACE597821C1882DF0031451F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = YES;
-				INFOPLIST_FILE = Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SwiftyBeaver.SwiftyBeaver;
-				PRODUCT_NAME = SwiftyBeaver;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "watchsimulator watchos";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				VALID_ARCHS = "$(ARCHS_STANDARD)";
-			};
-			name = Debug;
-		};
-		ACE597831C1882DF0031451F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = YES;
-				INFOPLIST_FILE = Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SwiftyBeaver.SwiftyBeaver;
-				PRODUCT_NAME = SwiftyBeaver;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "watchsimulator watchos";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				VALID_ARCHS = "$(ARCHS_STANDARD)";
-			};
-			name = Release;
-		};
-		ACE597931C18830D0031451F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = YES;
-				INFOPLIST_FILE = Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SwiftyBeaver.SwiftyBeaver;
-				PRODUCT_NAME = SwiftyBeaver;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				VALID_ARCHS = "$(ARCHS_STANDARD)";
-			};
-			name = Debug;
-		};
-		ACE597941C18830D0031451F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_BITCODE = YES;
-				INFOPLIST_FILE = Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SwiftyBeaver.SwiftyBeaver;
-				PRODUCT_NAME = SwiftyBeaver;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				VALID_ARCHS = "$(ARCHS_STANDARD)";
-			};
-			name = Release;
-		};
-		ACE597A41C18832E0031451F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SwiftyBeaver.SwiftyBeaver;
-				PRODUCT_NAME = SwiftyBeaver;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = macosx;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				VALID_ARCHS = "i386 x86_64";
-			};
-			name = Debug;
-		};
-		ACE597A51C18832E0031451F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SwiftyBeaver.SwiftyBeaver;
-				PRODUCT_NAME = SwiftyBeaver;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = macosx;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				VALID_ARCHS = "i386 x86_64";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -815,33 +482,6 @@
 			buildConfigurations = (
 				9EDCE3FC1C09D211002FA4A7 /* Debug */,
 				9EDCE3FD1C09D211002FA4A7 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		ACE597811C1882DF0031451F /* Build configuration list for PBXNativeTarget "SwiftyBeaver (watchOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				ACE597821C1882DF0031451F /* Debug */,
-				ACE597831C1882DF0031451F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		ACE597921C18830D0031451F /* Build configuration list for PBXNativeTarget "SwiftyBeaver (tvOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				ACE597931C18830D0031451F /* Debug */,
-				ACE597941C18830D0031451F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		ACE597A31C18832E0031451F /* Build configuration list for PBXNativeTarget "SwiftyBeaver (OSX)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				ACE597A41C18832E0031451F /* Debug */,
-				ACE597A51C18832E0031451F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
